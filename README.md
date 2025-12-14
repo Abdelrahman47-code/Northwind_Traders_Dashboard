@@ -65,6 +65,5 @@ The report has **three pages** with key insights:
 3. Import all Excel files (Get Data → Excel).
 4. Create relationships in the Model view (e.g., Orders → Order Details → Products → Categories).
 5. Add visuals and slicers as shown in the screenshots.
-6. (Optional) Upload the `.pbix` file if available in the repo.
 
 This project is great for learning Power BI techniques like DAX, data modeling, and interactive visualizations.
