@@ -32,7 +32,7 @@ The report has **three pages** with key insights:
 - Total Sales over Time (line chart)
 - Top 10 Products by Number of Orders (horizontal bar chart)
 
-![Dashboard Page 1](page1.jpg)
+![Dashboard Page 1](page_1.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ The report has **three pages** with key insights:
 - Total Orders by Shipper Company (pie chart)
 - Total Sales by Employee (with increase/decrease indicators)
 
-![Dashboard Page 2](page2.jpg)
+![Dashboard Page 2](page_2.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ The report has **three pages** with key insights:
 - Top products by sales (Q&A visual)
 - Total Orders by Customer (bar chart)
 
-![Dashboard Page 3](page3.jpg)
+![Dashboard Page 3](page_3.jpg)
 
 ---
 
